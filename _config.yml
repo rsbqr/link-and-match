@@ -1,32 +1,10 @@
 title: Kelompok 2
 logo: /assets/img/scope.png
 description: Dari Link and Match STT Terpadu Nurul Fikri
-
-
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
-!!seq [
-  !!map {
-    ? !!str "anggota"
-    : !!str "Herlina Rafi Hauzani Yazid Shidqi Raihan",
-  },
-  !!map {
-    ? !!str "yaml"
-    : !!seq [
-      !!seq [
-        !!str "here",
-        !!str "and",
-      ],
-      !!map {
-        ? !!str "in"
-        : !!str "real-time",
-        ? !!str "it"
-        : !!str "updates",
-      },
-    ],
-  },
-]
+
 # title: Minimal theme
 # logo: /assets/img/logo.png
 # description: Minimal is a theme for GitHub Pages.
