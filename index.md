@@ -1,6 +1,13 @@
-# Header 1 ok
+#KELOMPOK 2
 
 Kami kelompok 2 Link and Match STT Terpadu Nurul Fikri
+Dengan Anggota :
+> Herlina
+> Rafi
+> Hauzani
+> Yazid
+> Shidqi
+> Raihan
 
 ## Header 2
 
