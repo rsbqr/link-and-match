@@ -1,13 +1,13 @@
-#KELOMPOK 2
+# KELOMPOK 2
 
-Kami kelompok 2 Link and Match STT Terpadu Nurul Fikri
+> Kami kelompok 2 Link and Match STT Terpadu Nurul Fikri <br>
 Dengan Anggota :
-> Herlina
-> Rafi
-> Hauzani
-> Yazid
-> Shidqi
-> Raihan
+> * Herlina
+> * Rafi
+> * Hauzani
+> * Yazid
+> * Shidqi
+> * Raihan
 
 ## Header 2
 
